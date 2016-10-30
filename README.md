@@ -33,3 +33,4 @@ Ako se obriše originalni dll sa diska (iz originalnog foldera, a ne iz Bin/Debug
 #Pitanje6
 Nakon brisanja NodaTime direktorija unutar packages direktorija u solutionu i buildanja KonzolneAplikacije nakon toga, aplikacija je radila normalno, a u 
 packages direktoriju ponovno se generirao NodaTime direktorij sa istim sadržajem kao prije brisanja.
+# DZ02
